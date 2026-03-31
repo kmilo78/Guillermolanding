@@ -4,7 +4,6 @@ import Hero from './components/Hero';
 import FamilyCare from './components/FamilyCare';
 import BilingualCare from './components/BilingualCare';
 import Authority from './components/Authority';
-import About from './components/About';
 import HowItWorks from './components/HowItWorks';
 import Treatments from './components/Treatments';
 import ContactForm from './components/ContactForm';
@@ -28,7 +27,6 @@ function App() {
       <FamilyCare />
       <BilingualCare />
       <Authority />
-      <About />
       <HowItWorks />
       <Treatments />
       <ContactForm />
