@@ -13,7 +13,7 @@ export default function Hero() {
           <p className="inline-flex items-center gap-2 bg-[rgba(37,211,102,0.15)] border border-[rgba(37,211,102,0.3)] text-[#6ee7b7] px-3.5 py-1.5 rounded-full text-xs font-semibold tracking-wider uppercase mb-5 opacity-0 animate-fade-up" style={{ animationDelay: '0.1s' }}>
             Atención Integral en Ortopedia y Traumatología · Torre Medical · El Poblado · Medellín
           </p>
-          <h1 className="font-extrabold text-white leading-tight mb-5 text-2xl sm:text-3xl md:text-5xl opacity-0 animate-cascade" style={{ animationDelay: '0.3s' }}>
+          <h1 className="font-extrabold text-white leading-tight mb-5 text-xl sm:text-2xl md:text-4xl opacity-0 animate-cascade" style={{ animationDelay: '0.3s' }}>
             Deja de buscar. Aquí encuentras el apoyo integral que tu familia y tú necesitan para <em className="not-italic text-[#25D366]">recuperar la salud</em> de sus articulaciones.
           </h1>
           <p className="text-sm sm:text-base md:text-[17px] text-white/80 leading-relaxed mb-5 sm:mb-7 opacity-0 animate-cascade" style={{ animationDelay: '0.5s' }}>
