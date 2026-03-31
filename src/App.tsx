@@ -10,6 +10,7 @@ import ContactForm from './components/ContactForm';
 import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Location from './components/Location';
+import Closer from './components/Closer';
 import Footer from './components/Footer';
 import FloatingButtons from './components/FloatingButtons';
 
@@ -32,6 +33,7 @@ function App() {
       <Testimonials />
       <FAQ />
       <Location />
+      <Closer />
       <Footer />
       <FloatingButtons />
     </div>
