@@ -7,7 +7,6 @@ import Authority from './components/Authority';
 import HowItWorks from './components/HowItWorks';
 import Treatments from './components/Treatments';
 import ContactForm from './components/ContactForm';
-import WhatsAppWidget from './components/WhatsAppWidget';
 import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Location from './components/Location';
@@ -30,7 +29,6 @@ function App() {
       <HowItWorks />
       <Treatments />
       <ContactForm />
-      <WhatsAppWidget />
       <Testimonials />
       <FAQ />
       <Location />
